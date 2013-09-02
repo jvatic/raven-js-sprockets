@@ -1,3 +1,6 @@
+//= require ./tracekit
+//= require_self
+
 /*
 Copyright (c) 2013 Matt Robenolt and other contributers
 All rights reserved.
