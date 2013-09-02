@@ -5,7 +5,8 @@ module RavenJS
     extend self
 
     ASSET_NAMES = %w(
-      raven-js.js
+      tracekit
+      raven.js
     ).freeze
 
     VENDOR_ASSET_NAMES = %w(
